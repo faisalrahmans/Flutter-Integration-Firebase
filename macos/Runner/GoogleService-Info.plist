@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCMGZDYDiuGmxTG-2FGh5fEfSeEBCZm6eE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1043259362773</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.integrationFirebaseApp.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>sanberapp-54</string>
+	<key>STORAGE_BUCKET</key>
+	<string>sanberapp-54.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1043259362773:ios:0a1ba7a620d2b59e82415c</string>
+</dict>
+</plist>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1043259362773",
+    "project_id": "sanberapp-54",
+    "storage_bucket": "sanberapp-54.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043259362773:android:6d774cfa5d1092b782415c",
+        "android_client_info": {
+          "package_name": "com.example.integration_firebase_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLZnxu6GLHi9EgR3z8glzQxsVxI6jleq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043259362773:android:4d1179553238b48882415c",
+        "android_client_info": {
+          "package_name": "com.example.sanberappflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLZnxu6GLHi9EgR3z8glzQxsVxI6jleq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
